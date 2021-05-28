@@ -262,7 +262,7 @@ export default App;
 
 Execute a `POST` request on the `restaurant` Collection Type in order to create a restaurant.
 
-Be sure that you activated the `create` permission for the `restaurant` Collection Type and the `find` permission fot the `category` Collection type.
+Be sure that you activated the `create` permission for the `restaurant` Collection Type and the `find` permission for the `category` Collection type.
 
 In this example a `japanese` category has been created which has the id: 3.
 
